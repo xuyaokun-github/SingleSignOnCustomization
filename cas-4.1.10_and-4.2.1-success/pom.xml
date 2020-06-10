@@ -88,7 +88,7 @@
         <bouncycastle.version>1.51</bouncycastle.version>
         <dbcp.version>2.1</dbcp.version>
         <hazelcast.version>3.5</hazelcast.version>
-        <cryptacular.version>1.0</cryptacular.version>
+        <cryptacular.version>1.2.4</cryptacular.version>
 
         <!-- Plugin Versions -->
         <maven-javadoc-plugin.version>2.10.3</maven-javadoc-plugin.version>
