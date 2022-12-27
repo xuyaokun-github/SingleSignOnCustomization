@@ -87,7 +87,7 @@
         <pac4j.version>1.8.2</pac4j.version>
         <bouncycastle.version>1.51</bouncycastle.version>
         <dbcp.version>2.1</dbcp.version>
-        <hazelcast.version>3.5</hazelcast.version>
+        <hazelcast.version>3.12.13</hazelcast.version>
         <cryptacular.version>1.0</cryptacular.version>
 
         <!-- Plugin Versions -->
